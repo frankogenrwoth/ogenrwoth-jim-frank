@@ -1,3 +1,6 @@
+# Assignment 4: error handling
+
+
 if __name__=="__main__":
     while True:
         number_1 = input("number 1: ")

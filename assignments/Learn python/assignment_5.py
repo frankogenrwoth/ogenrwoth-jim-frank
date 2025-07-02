@@ -1,3 +1,5 @@
+# Assignment 5: polymorphism (overloading, overriding and Method Resolution Order - MRO)
+
 # overloading
 def get_sum(*numbers):
     return sum(numbers)
