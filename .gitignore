@@ -1,2 +1,4 @@
 /venv
 /tf_venv
+
+.env
