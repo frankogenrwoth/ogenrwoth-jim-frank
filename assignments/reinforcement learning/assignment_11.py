@@ -1,4 +1,4 @@
-#import the necessary libraries
+# assignment 11: road crossing agent with reinforcement learning (Q-learning)
 import numpy as np
 import random  #helps us to setup random values
 
